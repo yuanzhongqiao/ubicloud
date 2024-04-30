@@ -1,164 +1,113 @@
-<p align="center">
-  <img src="https://github.com/ubicloud/ubicloud/assets/2545443/caa2d2be-26f3-4635-be78-1861886e2ebe">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/2545443/265472652-caa2d2be-26f3-4635-be78-1861886e2ebe.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0OTE0NjEsIm5iZiI6MTcxNDQ5MTE2MSwicGF0aCI6Ii8yNTQ1NDQzLzI2NTQ3MjY1Mi1jYWEyZDJiZS0yNmYzLTQ2MzUtYmU3OC0xODYxODg2ZTJlYmUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MzBUMTUzMjQxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Nzc0NGU2N2FlOWRhZDk3MWEwOTQzYjI4MzIwYjgxMmEwNmFjYmQ0MmYwYTliZmNlZDNlZTE4NGI3OGYxZTdkMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.Klig5E_pMpkvWhCny0srddudC-PWSzrdK2_FkKR_FZs"><img src="https://private-user-images.githubusercontent.com/2545443/265472652-caa2d2be-26f3-4635-be78-1861886e2ebe.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0OTE0NjEsIm5iZiI6MTcxNDQ5MTE2MSwicGF0aCI6Ii8yNTQ1NDQzLzI2NTQ3MjY1Mi1jYWEyZDJiZS0yNmYzLTQ2MzUtYmU3OC0xODYxODg2ZTJlYmUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MzBUMTUzMjQxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Nzc0NGU2N2FlOWRhZDk3MWEwOTQzYjI4MzIwYjgxMmEwNmFjYmQ0MmYwYTliZmNlZDNlZTE4NGI3OGYxZTdkMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.Klig5E_pMpkvWhCny0srddudC-PWSzrdK2_FkKR_FZs" style="max-width: 100%;"></a>
 </p>
-
-
-# Ubicloud [![CI](https://github.com/ubicloud/ubicloud/actions/workflows/ci.yml/badge.svg)](https://github.com/ubicloud/ubicloud/actions/workflows/ci.yml) [![Build](https://github.com/ubicloud/ubicloud/actions/workflows/build.yml/badge.svg)](https://github.com/ubicloud/ubicloud/actions/workflows/build.yml) <a href="https://app.greptile.com/repo/ubicloud"><img src="https://img.shields.io/badge/learn_with-greptile-%091B12?color=%091B12" alt="Learn this repo using Greptile"></a>
-
-Ubicloud is an open, free, and portable cloud. Think of it as an open alternative to
-cloud providers, like what Linux is to proprietary operating systems.
-
-Ubicloud provides IaaS cloud features on bare metal providers, such as Hetzner, OVH, 
-and AWS Bare Metal. You can set it up yourself on these providers or you can use our 
-managed service. We're currently in public beta.
-
-## Quick start
-
-### Managed platform
-
-You can use Ubicloud without installing anything. When you do this, we pass along the 
-underlying provider's benefits to you, such as price or location.
-
-https://console.ubicloud.com
-
-### Build your own cloud
-
-You can also build your own cloud. To do this, start up Ubicloud's control plane and 
-connect to its cloud console.
-
-```
-git clone git@github.com:ubicloud/ubicloud.git
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">育碧云</font></font><a href="https://github.com/ubicloud/ubicloud/actions/workflows/ci.yml"><img src="https://github.com/ubicloud/ubicloud/actions/workflows/ci.yml/badge.svg" alt="那里" style="max-width: 100%;"></a> <a href="https://github.com/ubicloud/ubicloud/actions/workflows/build.yml"><img src="https://github.com/ubicloud/ubicloud/actions/workflows/build.yml/badge.svg" alt="建造" style="max-width: 100%;"></a> <a href="https://app.greptile.com/repo/ubicloud" rel="nofollow"><img src="https://camo.githubusercontent.com/cad19ff9e19886f278021c9f7f3bf33070f7997cecf0931456f42c25809372a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6561726e5f776974682d6772657074696c652d253039314231323f636f6c6f723d25303931423132" alt="使用 Greptile 学习此存储库" data-canonical-src="https://img.shields.io/badge/learn_with-greptile-%091B12?color=%091B12" style="max-width: 100%;"></a></h1><a id="user-content-ubicloud---" class="anchor" aria-label="永久链接：育碧云" href="#ubicloud---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubicloud 是一个开放、免费、可移植的云。将其视为云提供商的开放替代方案，就像 Linux 之于专有操作系统一样。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubicloud 在 Hetzner、OVH 和 AWS Bare Metal 等裸机提供商上提供 IaaS 云功能。您可以在这些提供商上自行设置，也可以使用我们的托管服务。我们目前处于公开测试阶段。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2><a id="user-content-quick-start" class="anchor" aria-label="永久链接：快速入门" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">托管平台</font></font></h3><a id="user-content-managed-platform" class="anchor" aria-label="永久链接：托管平台" href="#managed-platform"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您无需安装任何东西即可使用Ubicloud。当您这样做时，我们会将底层提供商的优势传递给您，例如价格或位置。</font></font></p>
+<p dir="auto"><a href="https://console.ubicloud.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://console.ubicloud.com</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建您自己的云</font></font></h3><a id="user-content-build-your-own-cloud" class="anchor" aria-label="永久链接：构建您自己的云" href="#build-your-own-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以构建自己的云。为此，启动 Ubicloud 的控制平面并连接到其云控制台。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone git@github.com:ubicloud/ubicloud.git
 
 # Generate secrets for demo
 ./demo/generate_env
 
-# Run containers: db-migrator, app (web & respirate), postgresql
+# Run containers: db-migrator, app (web &amp; respirate), postgresql
 docker-compose -f demo/docker-compose.yml up
 
 # Visit localhost:3000
-```
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone git@github.com:ubicloud/ubicloud.git
 
-The control plane is responsible for cloudifying bare metal Linux machines.
-The easiest way to build your own cloud is to lease instances from one of those
-providers. For example: https://www.hetzner.com/sb
+# Generate secrets for demo
+./demo/generate_env
 
-Once you lease instance(s), run the following script for each instance to cloudify
-the instance. By default, the script cloudifies bare metal instances leased from 
-Hetzner. After you cloudify your instances, you can provision and manage cloud 
-resources on these machines.
+# Run containers: db-migrator, app (web &amp; respirate), postgresql
+docker-compose -f demo/docker-compose.yml up
 
-```
-# Enter hostname/IP and provider, and install SSH key as instructed by script
+# Visit localhost:3000" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制平面负责裸机Linux机器的云化。构建自己的云的最简单方法是从这些提供商之一租赁实例。例如：</font></font><a href="https://www.hetzner.com/sb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.hetzner.com/sb</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">租用实例后，请为每个实例运行以下脚本以云化该实例。默认情况下，该脚本会对从 Hetzner 租用的裸机实例进行云化。将实例云化后，您可以在这些计算机上配置和管理云资源。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code># Enter hostname/IP and provider, and install SSH key as instructed by script
 docker exec -it ubicloud-app ./demo/cloudify_server
-```
-
-Later when you create VMs, Ubicloud will assign them IPv6 addresses. If your ISP 
-doesn't support IPv6, please use a VPN or tunnel broker such as Mullvad or Hurricane 
-Electric's https://tunnelbroker.net/ to connect. Alternatively, you could lease
-IPv4 addresses from your provider and add them to your control plane.
-
-## Why use it
-
-Public cloud providers like AWS, Azure, and Google Cloud have made life easier for 
-start-ups and enterprises. But they are closed source, have you rent computers 
-at a huge premium, and lock you in. Ubicloud offers an open alternative, reduces 
-your costs, and returns control of your infrastructure back to you. All without
-sacrificing the cloud's convenience.
-
-Today, AWS offers about two hundred cloud services. Ultimately, we will implement 
-10% of the cloud services that make up 80% of that consumption.
-
-Example workloads and reasons to use Ubicloud today include:
-
-* You have an ephemeral workload like a CI/CD pipeline (we're integrating with
-GitHub Actions), or you'd like to run compute/memory heavy tests. Our managed
-cloud is ~3x cheaper than AWS, so you save on costs.
-
-* You want a portable and simple app deployment service like 
-[Kamal](https://github.com/basecamp/kamal). We're moving Ubicloud's control plane
-from Heroku to Kamal; and we want to provide open and portable services for
-Kamal's dependencies in the process.
-
-* You have bare metal machines sitting somewhere. You'd like to build your own
-cloud for portability, security, or compliance reasons.
-
-## Status
-
-Ubicloud is in public alpha. You can provide us your feedback, get help, or ask
-us to support your network environment in the
-[Community Forum](https://github.com/ubicloud/ubicloud/discussions).
-
-We follow an established architectural pattern in building public cloud services. 
-A control plane manages a data plane, where the data plane leverages open source 
-software.  You can find our current cloud components / services below.
-
-* **Elastic Compute**: Our control plane communicates with Linux bare metal servers
-using SSH. We use [Cloud
-Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) as our virtual
-machine monitor (VMM); and each instance of the VMM is contained within Linux
-namespaces for further isolation / security.
-
-* **Virtual Networking**: We use [IPsec](https://en.wikipedia.org/wiki/IPsec)
-tunneling to establish an encrypted and private network environment. We support IPv4
-and IPv6 in a dual-stack setup and provide both public and private networking. For
-security, each customer’s VMs operate in their own networking namespace. Everything
-in virtual networking is layer 3 and up.
-
-* **Block Storage, non replicated**: We use Storage Performance Development Toolkit
-([SPDK](https://spdk.io)) to provide virtualized block storage to VMs. SPDK enables
-us to add enterprise features such as snapshot and replication in the future. We
-follow security best practices and encrypt the data encryption key itself.
-
-* **Attribute-Based Access Control (ABAC)**: With ABAC, you can define attributes,
-roles, and permissions for users and give them fine-grained access to resources. You
-can read more about our [ABAC design here](doc/authorization.md).
-
-* **What's Next?**: We're planning to work on the elastic load balancer or simple
-storage service next. If you have a workload that would benefit from a specific cloud
-service, please get in touch with us through our [Community
-Forum](https://github.com/ubicloud/ubicloud/discussions).
-
-* Control plane: Manages data plane services and resources. This is a Ruby program
-that stores its data in Postgres. We use the [Roda](https://roda.jeremyevans.net/)
-framework to serve HTTP requests and [Sequel](http://sequel.jeremyevans.net/) to
-access the database. We manage web authentication with
-[Rodauth](http://rodauth.jeremyevans.net/). We communicate with data plane servers
-using SSH, via the library [net-ssh](https://github.com/net-ssh/net-ssh). For our
-tests, we use [RSpec](https://rspec.info/).
-
-* Cloud console: Server-side web app served by the Roda framework. For the visual
-design, we use [Tailwind CSS](https://tailwindcss.com) with components from
-[Tailwind UI](https://tailwindui.com). We also use jQuery for interactivity.
-
-If you’d like to start hacking with Ubicloud, any method of obtaining Ruby and Postgres 
-versions is acceptable. If you have no opinion on this, our development team uses `asdf-vm` 
-as [documented here in detail](DEVELOPERS.md).
-
-[Greptile](https://greptile.com/) provides an AI/LLM that indexes
-Ubicloud's source code [can answer questions about
-it](https://learnthisrepo.com/ubicloud).
-
-## FAQ
-
-### Do you have any experience with building this sort of thing?
-
-Our founding team comes from Azure; and worked at Amazon and Heroku before that.
-We also have start-up experience. We were co-founders and founding team members 
-at [Citus Data](https://github.com/citusdata/citus), [which got acquired by 
-Microsoft](https://news.ycombinator.com/item?id=18990469).
-
-### How is this different than OpenStack?
-
-We see three differences. First, Ubicloud is available as a managed service (vs boxed
-software). This way, you can get started in minutes rather than weeks. Since Ubicloud
-is designed for multi-tenancy, it comes with built-in features such as encryption 
-at rest and in transit, virtual networking, secrets rotation, etc.
-
-Second, we're initially targeting developers. This -we hope- will give us fast feedback 
-cycles and enable us to have 6 key services in GA form in the next two years. OpenStack 
-is still primarily used for 3 cloud services.
-
-Last, we're designing for simplicity. With OpenStack, you pick between 10 hypervisors, 
-10 S3 implementations, and 5 block storage implementations. The software needs to work 
-in a way where all of these implementations are compatible with each other. That leads
-to consultant-ware. We'll take a more opinionated approach with Ubicloud.
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Enter hostname/IP and provider, and install SSH key as instructed by script
+docker exec -it ubicloud-app ./demo/cloudify_server" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">稍后当您创建虚拟机时，Ubicloud 将为它们分配 IPv6 地址。如果您的 ISP 不支持 IPv6，请使用 VPN 或隧道代理（例如 Mulvad 或 Hurricane Electric 的</font></font><a href="https://tunnelbroker.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://tunnelbroker.net/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）进行连接。或者，您可以从提供商处租用 IPv4 地址并将其添加到您的控制平面。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么使用它</font></font></h2><a id="user-content-why-use-it" class="anchor" aria-label="永久链接： 为什么使用它" href="#why-use-it"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AWS、Azure 和 Google Cloud 等公共云提供商让初创企业和企业的生活变得更加轻松。但它们是闭源的，让你以巨额溢价租用计算机，然后将你锁定。Ubicloud 提供了一个开放的替代方案，降低了你的成本，并将基础设施的控制权交还给你。所有这一切都不会牺牲云的便利性。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如今，AWS 提供约 200 种云服务。最终，我们将实施占该消费量 80% 的 10% 的云服务。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目前使用 Ubicloud 的示例工作负载和原因包括：</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您有一个临时工作负载，例如 CI/CD 管道（我们正在与 GitHub Actions 集成），或者您希望运行计算/内存密集型测试。我们的托管云比 AWS 便宜约 3 倍，因此您可以节省成本。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/basecamp/kamal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您需要像Kamal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这样的便携式且简单的应用程序部署服务
+</font><font style="vertical-align: inherit;">。我们正在将 Ubicloud 的控制平面从 Heroku 移至 Kamal；我们希望为Kamal在此过程中的依赖提供开放和可移植的服务。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你的某个地方有裸机。出于可移植性、安全性或合规性原因，您希望构建自己的云。</font></font></p>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地位</font></font></h2><a id="user-content-status" class="anchor" aria-label="永久链接：状态" href="#status"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubicloud 处于公开测试阶段。您可以在</font></font><a href="https://github.com/ubicloud/ubicloud/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中向我们提供反馈、获取帮助或要求我们支持您的网络环境
+</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们在构建公共云服务时遵循既定的架构模式。控制平面管理数据平面，其中数据平面利用开源软件。您可以在下面找到我们当前的云组件/服务。</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">弹性计算</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：我们的控制平面使用 SSH 与 Linux 裸机服务器进行通信。我们使用</font></font><a href="https://github.com/cloud-hypervisor/cloud-hypervisor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cloud Hypervisor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为我们的虚拟机监视器（VMM）； VMM 的每个实例都包含在 Linux 命名空间中，以实现进一步的隔离/安全。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虚拟网络</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：我们使用</font></font><a href="https://en.wikipedia.org/wiki/IPsec" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IPsec</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+隧道来建立加密的专用网络环境。我们在双栈设置中支持 IPv4 和 IPv6，并提供公共和专用网络。为了安全起见，每个客户的虚拟机都在自己的网络命名空间中运行。虚拟网络中的一切都是第 3 层及以上。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">块存储，非复制</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：我们使用存储性能开发工具包（</font></font><a href="https://spdk.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SPDK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）为虚拟机提供虚拟化块存储。 SPDK使我们能够在未来添加快照和复制等企业功能。我们遵循安全最佳实践并对数据加密密钥本身进行加密。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于属性的访问控制 (ABAC)</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用 ABAC，您可以定义用户的属性、角色和权限，并授予他们对资源的细粒度访问权限。您可以</font></font><a href="/ubicloud/ubicloud/blob/main/doc/authorization.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处阅读有关我们的 ABAC 设计的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多信息。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下一步是什么？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：接下来我们计划开发弹性负载均衡器或简单的存储服务。如果您的工作负载可以从特定云服务中受益，请通过我们的</font></font><a href="https://github.com/ubicloud/ubicloud/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们联系</font><font style="vertical-align: inherit;">。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制平面：管理数据平面服务和资源。这是一个 Ruby 程序，将其数据存储在 Postgres 中。我们使用</font></font><a href="https://roda.jeremyevans.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Roda</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+框架来服务 HTTP 请求，并使用</font></font><a href="http://sequel.jeremyevans.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sequel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来访问数据库。我们使用</font></font><a href="http://rodauth.jeremyevans.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rodauth</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理 Web 身份验证
+</font><font style="vertical-align: inherit;">。我们通过库</font></font><a href="https://github.com/net-ssh/net-ssh"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">net-ssh</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 SSH 与数据平面服务器进行通信。对于我们的测试，我们使用</font></font><a href="https://rspec.info/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSpec</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">云控制台：由 Roda 框架提供服务的服务器端 Web 应用程序。对于视觉设计，我们使用</font></font><a href="https://tailwindcss.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tailwind CSS和</font></font></a><font style="vertical-align: inherit;"></font><a href="https://tailwindui.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tailwind UI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的组件
+</font><font style="vertical-align: inherit;">。我们还使用 jQuery 进行交互。</font></font></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想开始使用 Ubicloud 进行黑客攻击，任何获取 Ruby 和 Postgres 版本的方法都是可以接受的。如果您对此没有意见，我们的开发团队将使用</font><a href="/ubicloud/ubicloud/blob/main/DEVELOPERS.md"><font style="vertical-align: inherit;">此处详细记录的</font></a></font><code>asdf-vm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+内容</font><font style="vertical-align: inherit;">。</font></font><a href="/ubicloud/ubicloud/blob/main/DEVELOPERS.md"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><a href="https://greptile.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Greptile</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供了一个 AI/LLM，可以索引 Ubicloud 的源代码</font></font><a href="https://learnthisrepo.com/ubicloud" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，可以回答有关它的问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常问问题</font></font></h2><a id="user-content-faq" class="anchor" aria-label="永久链接：常见问题解答" href="#faq"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你有建造这类东西的经验吗？</font></font></h3><a id="user-content-do-you-have-any-experience-with-building-this-sort-of-thing" class="anchor" aria-label="永久链接：您有建造此类东西的经验吗？" href="#do-you-have-any-experience-with-building-this-sort-of-thing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的创始团队来自Azure；此前曾在 Amazon 和 Heroku 工作过。我们也有创业经验。我们是</font></font><a href="https://github.com/citusdata/citus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Citus Data</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的联合创始人和创始团队成员</font><font style="vertical-align: inherit;">，</font></font><a href="https://news.ycombinator.com/item?id=18990469" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该公司被微软收购</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这与 OpenStack 有什么不同？</font></font></h3><a id="user-content-how-is-this-different-than-openstack" class="anchor" aria-label="永久链接：这与 OpenStack 有什么不同？" href="#how-is-this-different-than-openstack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们看到三个差异。首先，Ubicloud 可作为托管服务（相对于盒装软件）。这样，您可以在几分钟而不是几周内开始。由于 Ubicloud 是为多租户而设计的，因此它具有静态和传输加密、虚拟网络、秘密轮换等内置功能。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其次，我们最初的目标是开发者。我们希望这将为我们提供快速的反馈周期，并使我们能够在未来两年内以 GA 形式提供 6 项关键服务。 OpenStack仍然主要用于3个云服务。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后，我们的设计是为了简单。使用 OpenStack，您可以在 10 个虚拟机管理程序、10 个 S3 实现和 5 个块存储实现之间进行选择。软件需要以所有这些实现都相互兼容的方式工作。这导致了顾问软件的出现。对于 Ubicloud，我们将采取更加固执己见的方法。</font></font></p>
+</article></div>
