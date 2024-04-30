@@ -12,13 +12,13 @@
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以构建自己的云。为此，启动 Ubicloud 的控制平面并连接到其云控制台。</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone git@github.com:ubicloud/ubicloud.git
 
-# Generate secrets for demo
+// Generate secrets for demo
 ./demo/generate_env
 
-# Run containers: db-migrator, app (web &amp; respirate), postgresql
+/// Run containers: db-migrator, app (web &amp; respirate), postgresql
 docker-compose -f demo/docker-compose.yml up
 
-# Visit localhost:3000
+/// Visit localhost:3000
 </code></pre><div class="zeroclipboard-container">
   
   </div></div>
